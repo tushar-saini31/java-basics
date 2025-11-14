@@ -9,7 +9,5 @@ public class type_casting {
         //float y=it;
         float y=12.45f;
         int it=(int)y;
-
-
     }
 }
